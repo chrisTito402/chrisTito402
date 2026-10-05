@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola, soy Christopher 👋
 
-<!--
-**chrisTito402/chrisTito402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de 7° semestre de Ingeniería en Software en el ITSON (Cd. Obregón, Sonora).
+Me gusta construir sistemas completos: que funcionen, se prueben y se puedan medir.
 
-Here are some ideas to get you started:
+## Tecnologías
+**Lenguajes:** JavaScript · Java · Python · C++ · SQL · Kotlin · Lua
+**Frameworks:** Vue 3 · Node.js/Express · Spring Boot · Quarkus
+**Datos:** MySQL · MongoDB
+**DevOps y calidad:** Docker · GitHub Actions (básico) · SonarCloud · Playwright
+**Metodologías:** Scrum · GitHub Flow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+- [**Verdex**](https://github.com/chrisTito402/ProyectoInvernadero_Empotrados): invernadero automatizado con ESP32, API REST y panel web.
+- [**Invernadero distribuido**](https://github.com/juanpabloheras/Proyecto_invernadero_distribuidos): 6 servicios backend con RabbitMQ y gRPC.
+- **TutorPlay**: plataforma educativa en producción con tutor IA, minijuegos y sesiones en vivo.
+
+📫 christophercenteno966@gmail.com
