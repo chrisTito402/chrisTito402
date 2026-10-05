@@ -4,11 +4,11 @@ Estudiante de 7° semestre de Ingeniería en Software en el ITSON (Cd. Obregón,
 Me gusta construir sistemas completos: que funcionen, se prueben y se puedan medir.
 
 ## Tecnologías
-**Lenguajes:** JavaScript · Java · Python · C++ · SQL · Kotlin · Lua
-**Frameworks:** Vue 3 · Node.js/Express · Spring Boot · Quarkus
-**Datos:** MySQL · MongoDB
-**DevOps y calidad:** Docker · GitHub Actions (básico) · SonarCloud · Playwright
-**Metodologías:** Scrum · GitHub Flow
+- **Lenguajes:** JavaScript · Java · Python · C++ · SQL · Kotlin · Lua
+- **Frameworks:** Vue 3 · Node.js/Express · Spring Boot · Quarkus
+- **Datos:** MySQL · MongoDB
+- **DevOps y calidad:** Docker · GitHub Actions (básico) · SonarCloud · Playwright
+- **Metodologías:** Scrum · GitHub Flow
 
 ## Proyectos destacados
 - [**Verdex**](https://github.com/chrisTito402/ProyectoInvernadero_Empotrados): invernadero automatizado con ESP32, API REST y panel web.
